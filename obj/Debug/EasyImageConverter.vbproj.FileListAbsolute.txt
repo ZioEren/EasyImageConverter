@@ -1,0 +1,13 @@
+C:\Users\utente\Desktop\Computer\Developing\Progetti\EasyImageConverter\EasyImageConverter\bin\Debug\EasyImageConverter.exe.config
+C:\Users\utente\Desktop\Computer\Developing\Progetti\EasyImageConverter\EasyImageConverter\bin\Debug\EasyImageConverter.exe
+C:\Users\utente\Desktop\Computer\Developing\Progetti\EasyImageConverter\EasyImageConverter\bin\Debug\EasyImageConverter.pdb
+C:\Users\utente\Desktop\Computer\Developing\Progetti\EasyImageConverter\EasyImageConverter\bin\Debug\EasyImageConverter.xml
+C:\Users\utente\Desktop\Computer\Developing\Progetti\EasyImageConverter\EasyImageConverter\obj\Debug\EasyImageConverter.EasyImageConverter.resources
+C:\Users\utente\Desktop\Computer\Developing\Progetti\EasyImageConverter\EasyImageConverter\obj\Debug\EasyImageConverter.Resources.resources
+C:\Users\utente\Desktop\Computer\Developing\Progetti\EasyImageConverter\EasyImageConverter\obj\Debug\EasyImageConverter.vbproj.GenerateResource.cache
+C:\Users\utente\Desktop\Computer\Developing\Progetti\EasyImageConverter\EasyImageConverter\obj\Debug\EasyImageConverter.exe
+C:\Users\utente\Desktop\Computer\Developing\Progetti\EasyImageConverter\EasyImageConverter\obj\Debug\EasyImageConverter.xml
+C:\Users\utente\Desktop\Computer\Developing\Progetti\EasyImageConverter\EasyImageConverter\obj\Debug\EasyImageConverter.pdb
+C:\Users\utente\Desktop\Computer\Developing\Progetti\EasyImageConverter\EasyImageConverter\obj\Debug\EasyImageConverter.vbproj.CoreCompileInputs.cache
+C:\Users\utente\Desktop\Computer\Developing\Progetti\EasyImageConverter\EasyImageConverter\bin\Debug\MaterialSkin.dll
+C:\Users\utente\Desktop\Computer\Developing\Progetti\EasyImageConverter\EasyImageConverter\obj\Debug\EasyImageConverter.vbproj.CopyComplete
